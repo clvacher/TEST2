@@ -1,0 +1,3 @@
+[submodule "subtest1"]
+	path = subtest1
+	url = https://github.com/clvacher/subtest1.git
